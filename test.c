@@ -4,7 +4,7 @@
 void main()
 {
 	int n;
-	n = 10;
+	n = 5;
 	printf("%d\n", n);
 	printf("Hello, world!");
 }
